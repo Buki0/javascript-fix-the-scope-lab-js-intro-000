@@ -10,10 +10,13 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
-  var animal='';
+
   return animal
 }
 }
+var buki=myAnimal();
+buki();
+
 
 function add2(n) {
 
