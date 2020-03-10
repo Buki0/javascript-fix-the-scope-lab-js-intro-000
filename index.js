@@ -14,8 +14,7 @@ function yourAnimal() {
   return animal
 }
 }
-var buki=myAnimal();
-buki();
+
 
 
 function add2(n) {
